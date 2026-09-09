@@ -4,4 +4,6 @@ header {
 .profile_picture {
     border-radius: 50%;
     border-width: 3px;
+    width:100px;
+    height:100px;
 }
